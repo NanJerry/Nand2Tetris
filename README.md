@@ -8,3 +8,5 @@ UNNC Y2 CSF
 硬件部分由教材提供的HDL实现
 
 Assembler 和 VMTranslator由C语言实现
+
+Compiler和OS的部分尚未完成
